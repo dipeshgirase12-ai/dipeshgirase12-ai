@@ -212,33 +212,6 @@ I'm **Dipesh Girase**, a passionate **Computer Science Engineering student** who
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dipeshgirase12-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=8A5CFF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=dipeshgirase12-ai&theme=tokyonight&hide_border=true&background=0B1020&ring=00D4FF&fire=8A5CFF&currStreakLabel=00D4FF" alt="GitHub streak" />
-
-  <br />
-  <br />
-
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshgirase12-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D4FF&text_color=C9D1D9" alt="Top languages" />
-  <img height="190" src="https://github-profile-trophy.vercel.app/?username=dipeshgirase12-ai&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
-
-  <br />
-  <br />
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshgirase12-ai&theme=react-dark&hide_border=true&bg_color=0B1020&color=C9D1D9&line=00D4FF&point=8A5CFF&area=true&area_color=7C3AED" alt="GitHub activity graph" />
-
-  <br />
-  <br />
-
-  <img src="https://raw.githubusercontent.com/dipeshgirase12-ai/dipeshgirase12-ai/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
 ## 🗺️ Journey Timeline
 
 <div align="center">
